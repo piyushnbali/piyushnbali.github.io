@@ -1,0 +1,12 @@
+body{
+	background-color: white;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+
+}
+#header-nav{
+	background-color: gray;
+	border-radius: o;
+	border: 0;
+	height: 30px;
+}
